@@ -1,6 +1,6 @@
 # React Js Weather App
 
-**live demo: [https://react-chat-app-kohl.vercel.app/app](https://react-chat-app-kohl.vercel.app/app)**
+**live demo: [https://react-weather-app-six-sigma.vercel.app/](https://react-weather-app-six-sigma.vercel.app/)**
 
 ---
 
