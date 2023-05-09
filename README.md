@@ -1,70 +1,95 @@
-# Getting Started with Create React App
+# React Js Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**live demo: [https://react-chat-app-kohl.vercel.app/app](https://react-chat-app-kohl.vercel.app/app)**
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+### Made with ❤️ by [Dulanjali Senarathna](https://www.linkedin.com/in/dulanjali-senarathna/)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Project Description
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Mainly focused on react js front-end development. I used css for styling.
 
-### `npm test`
+This weather app has basic weather app functionalities such as view current weather details (temperature, humidity and winds speed), view daily weather forecast, view hourly weather forecast, view toast message for best user experience, view weather details of current location, view current date time, view temperature in celcius and faranhite and sunset/ sunrse time etc.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+You can change theming colors and dark and light modes by clicking settings icon in bottom-left cornaer.
 
-### `npm run build`
+## What I used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [React](https://reactjs.org/)
+- [unicons](iconscout.com)
+- [luxon](https://www.npmjs.com/package/luxon)
+- [React Toast](https://www.npmjs.com/package/react-toastify)
+- More...
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Requirements
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Basic ReactJs knowledge
+- Basic HTML, CSS knowledge
 
-### `npm run eject`
+## Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+After getting the project files, you need to go the file directory and run
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```shell
+npm install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+and after that start the dev server.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```shell
+npm start
+```
 
-## Learn More
+## Tools Used
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Favicon: [Flaticon.com](https://www.flaticon.com/)
+1. Code Editor: [VS Code](https://code.visualstudio.com/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## FAQ
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Q: What are the prerequisites?
 
-### Analyzing the Bundle Size
+basics of html, css, javascript and some basic knowledge of react is enough to start this project. Rest you will learn in the tutorial.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Q: Who the project is for?
 
-### Making a Progressive Web App
+The project is for the people who wanna get more skilled in `ReactJs`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## Feedback
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+If you have any feedback, please reach out to us at [Dulanjali Senarathna](https://www.behance.net/dulanjasenarathna)
 
-### Deployment
+Happy Coding! 🚀
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# Website's screenshots
 
-### `npm run build` fails to minify
+![React js chat app 1](https://user-images.githubusercontent.com/59603716/236672849-f2577271-4a2b-4b25-bca2-97755ba0c9c2.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![React js chat app 2](https://user-images.githubusercontent.com/59603716/236672853-2e1e2d1a-3e5a-44cd-a472-e0a4285de179.jpg)
+
+![React js chat app 3](https://user-images.githubusercontent.com/59603716/236672858-8b4a24ec-f287-4161-ae1f-7ed6115e35de.jpg)
+
+![React js chat app 4](https://user-images.githubusercontent.com/59603716/236672872-b12dbfbb-b73f-47e0-ab53-d53960083888.jpg)
+
+![React js chat app 5](https://user-images.githubusercontent.com/59603716/236672879-b3f9682c-5ced-4f8e-b3e7-dbbedf901d54.jpg)
+
+![React js chat app 6](https://user-images.githubusercontent.com/59603716/236672884-cddfe6bb-5550-484a-a215-08ec09e52365.jpg)
+
+![React js chat app 7](https://user-images.githubusercontent.com/59603716/236672886-080587d0-92f5-476f-ae24-263bfe8ab23d.jpg)
+
+![React js chat app 8](https://user-images.githubusercontent.com/59603716/236672893-bdd01215-3d0c-4a87-98e8-b8410735390c.jpg)
+
+![React js chat app 9](https://user-images.githubusercontent.com/59603716/236672900-8046f9d1-9d32-4f8b-b443-fa265fa059bd.jpg)
+
+![React js chat app 10](https://user-images.githubusercontent.com/59603716/236672903-d3139cb3-6490-427a-8573-cc9d4956ce60.jpg)
+
+## Dark mode
+
+![dark mode react js chat app](https://user-images.githubusercontent.com/59603716/236672907-66c3c842-66e8-40bb-9c44-ea1e6f7a29da.JPG)
