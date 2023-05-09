@@ -14,8 +14,6 @@ Mainly focused on react js front-end development. I used css for styling.
 
 This weather app has basic weather app functionalities such as view current weather details (temperature, humidity and winds speed), view daily weather forecast, view hourly weather forecast, view toast message for best user experience, view weather details of current location, view current date time, view temperature in celcius and faranhite and sunset/ sunrse time etc.
 
-You can change theming colors and dark and light modes by clicking settings icon in bottom-left cornaer.
-
 ## What I used
 
 - [React](https://reactjs.org/)
