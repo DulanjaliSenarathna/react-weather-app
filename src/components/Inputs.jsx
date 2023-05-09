@@ -24,7 +24,7 @@ const handleLocationClick = () =>{
 
       setQuery({
         lat,
-        lon
+        lon,
       })
     })
   }
