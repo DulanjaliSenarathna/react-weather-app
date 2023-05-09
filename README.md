@@ -10,9 +10,9 @@
 
 ## Project Description
 
-Mainly focused on react js front-end development. I used css for styling.
+Mainly focused on react js front-end development. I used CSS for styling.
 
-This weather app has basic weather app functionalities such as view current weather details (temperature, humidity and winds speed), view daily weather forecast, view hourly weather forecast, view toast message for best user experience, view weather details of current location, view current date time, view temperature in celcius and faranhite and sunset/ sunrse time etc.
+This weather app has basic weather app functionalities such as viewing current weather details (temperature, humidity, and winds speed), viewing daily weather forecast, viewing the hourly weather forecast, viewing toast messages for the best user experience, viewing weather details of the current location, view current date time, view temperature in celsius and Fahrenheit and sunset/sunrise time, etc.
 
 ## What I used
 
