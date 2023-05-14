@@ -17,6 +17,7 @@ This weather app has basic weather app functionalities such as viewing current w
 ## What I used
 
 - [React](https://reactjs.org/)
+- [Open Weather Map API](https://openweathermap.org/api)
 - [unicons](iconscout.com)
 - [luxon](https://www.npmjs.com/package/luxon)
 - [React Toast](https://www.npmjs.com/package/react-toastify)
